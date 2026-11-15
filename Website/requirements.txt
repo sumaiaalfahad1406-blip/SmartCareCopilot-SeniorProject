@@ -1,0 +1,10 @@
+streamlit>=1.43
+numpy
+scikit-learn
+openai
+pandas
+deep-translator
+faster-whisper
+streamlit-mic-recorder
+Pillow
+streamlit-image-coordinates
